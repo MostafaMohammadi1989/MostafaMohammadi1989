@@ -72,4 +72,3 @@ I love the entire process of developing creative websites. I love the challenge 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaMohammadi1989&layout=compact)](https://github.com/MostafaMohammadi1989	)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=MostafaMohammadi1989 .MostafaMohammadi1989)] (https://github.com/MostafaMohammadi1989	)
